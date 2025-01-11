@@ -10,11 +10,14 @@ export default function Index() {
         alignItems: "center",
       }}
     >
-      <Text className="font-bold text-lg my-10">Welcome to my Mobile App</Text>
-      <Link href="/sing-in">Sing In</Link>
+      <Text className=" my-10 font-rubik text-3xl">Welcome to my Mobile App</Text>
+      <Link className=" font-rubik-medium text-6xl" href="/sign-in">Sing In</Link>
       <Link href="/explore">Explore</Link>
       <Link href="/profile">Profile</Link>
       <Link href="/properties/1">Property</Link>
     </View>
+
+
   );
 }
+
