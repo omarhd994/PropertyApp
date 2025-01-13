@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "663940742353",
+    "project_id": "propertyapp-55822",
+    "storage_bucket": "propertyapp-55822.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:663940742353:android:432f37326dc389bd2099f0",
+        "android_client_info": {
+          "package_name": "com.tonnomdedomaine.propertyapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDclr23JRxVDKl7JmX_qRBO1UcgnhIO4a0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

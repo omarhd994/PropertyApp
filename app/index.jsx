@@ -3,6 +3,7 @@ import { Link } from 'expo-router'
 
 export default function Index() {
   return (
+    
     <View
       style={{
         flex: 1,
@@ -16,6 +17,7 @@ export default function Index() {
       <Link href="/profile">Profile</Link>
       <Link href="/properties/1">Property</Link>
     </View>
+
 
 
   );
